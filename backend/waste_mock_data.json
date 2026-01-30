@@ -1,0 +1,42 @@
+[
+  {
+    "object": "Plastic Water Bottle",
+    "category": "Recyclable Waste",
+    "highlight_color": "Yellow",
+    "bin": "Blue",
+    "tip": "Crush the bottle to save space before recycling.",
+    "points": 10
+  },
+  {
+    "object": "Banana Peel",
+    "category": "Wet Waste",
+    "highlight_color": "Green",
+    "bin": "Green",
+    "tip": "Great for composting! Do not put in plastic bags.",
+    "points": 10
+  },
+  {
+    "object": "Chips Packet",
+    "category": "Dry Waste",
+    "highlight_color": "Blue",
+    "bin": "Blue",
+    "tip": "Clean any food residue before disposing.",
+    "points": 10
+  },
+  {
+    "object": "Cardboard Box",
+    "category": "Recyclable Waste",
+    "highlight_color": "Yellow",
+    "bin": "Blue",
+    "tip": "Flatten the box to save bin space.",
+    "points": 10
+  },
+  {
+    "object": "Apple Core",
+    "category": "Wet Waste",
+    "highlight_color": "Green",
+    "bin": "Green",
+    "tip": "Perfect for compost. Discard in wet waste bin.",
+    "points": 10
+  }
+]
